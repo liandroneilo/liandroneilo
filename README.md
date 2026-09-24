@@ -1,6 +1,14 @@
-👨‍💻 Olá, eu sou Liandro Neilo!
-🚀 Técnico em Segurança Eletrônica | Desenvolvedor Full Stack em formação | Entusiasta de Tecnologia
 
+👨‍💻 Olá, eu sou Liandro Neilo!
+<h1 align="center">👨‍💻 Olá, eu sou Liandro Neilo!</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/8k5sXK7R9W1W8/giphy.gif" width="300">
+</p>
+
+<p align="center">
+  🚀 Técnico em Segurança Eletrônica | Desenvolvedor Full Stack em formação | Entusiasta de Tecnologia
+</p>
 Bem-vindo ao meu perfil! 👋
 
 Sou Liandro Neilo de Araújo Cavalcante, profissional da área de Segurança Eletrônica, com experiência em CFTV e cancelas Link, e atualmente estou direcionando minha carreira para o Desenvolvimento de Software.
