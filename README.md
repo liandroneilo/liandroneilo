@@ -1,9 +1,8 @@
 
 👨‍💻 Olá, eu sou Liandro Neilo!
 <h1 align="center">👨‍💻 Olá, eu sou Liandro Neilo!</h1>
-
 <p align="center">
-  <img src="https://media.giphy.com/media/8k5sXK7R9W1W8/giphy.gif" width="300">
+  <img src="./assets/sonic.gif" width="300" alt="Sonic correndo">
 </p>
 <p align="center">
   🚀 Técnico em Segurança Eletrônica | Desenvolvedor Full Stack em formação | Entusiasta de Tecnologia
